@@ -2,3 +2,4 @@
 /assets/*
 /tests/.pytest_cache/*
 /venv/*
+/.idea/*
