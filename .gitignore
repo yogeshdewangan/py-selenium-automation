@@ -3,3 +3,7 @@
 /tests/.pytest_cache/*
 /venv/*
 /.idea/*
+/tests/logfile.log
+/tests/report.html
+/logfile.log
+/report.html
